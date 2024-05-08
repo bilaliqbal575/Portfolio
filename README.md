@@ -1,6 +1,6 @@
 # Portfolio
 This is my Portfolio repository 
 
-Author M.Bilal
+Author (M.Bilal)
 
-I am gonna create my portfolio using HTML, CSS, and Bootstrap. 
+I am gonna create my portfolio using HTML, CSS, and  or maybe React. 
